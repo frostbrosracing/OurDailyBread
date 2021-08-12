@@ -34117,17 +34117,14 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-nav-6 {
   font-size: 1rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
-}
+
 @media (max-width: 991px) {
   .u-header .u-sheet-1 {
     min-height: 78px;
   }
 
   .u-header .u-menu-1 {
+    width: auto;
     margin-top: 23px;
     margin-bottom: 23px;
   }
@@ -34145,11 +34142,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-sheet-1 {
   min-height: 93px;
 }
-@media (max-width: 1199px) {
-  .u-footer .u-sheet-1 {
-    min-height: 99px;
-  }
-}
+
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
     min-height: 76px;
